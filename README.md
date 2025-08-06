@@ -17,5 +17,10 @@ Our results successfully align with the Negative Log-Likelihood scores reported 
 
 
 **DISTNET PAPER:** https://arxiv.org/pdf/1709.07615
+
+
 **Dataset:** http://www.ml4aad.org/wp-content/uploads/2018/04/DistNetData.zip
+
 **TabPFN Pipeline File:** TabPFN_Pipeline.ipynb
+
+**Conclusion**: Despite its significant memory constraints, the general-purpose TabPFN model shows competitive and often superior performance against the specialized DistNet for predicting algorithm runtime distributions.
