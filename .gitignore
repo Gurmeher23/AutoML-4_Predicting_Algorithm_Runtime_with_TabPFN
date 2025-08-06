@@ -1,0 +1,9 @@
+data/
+.idea/
+*pycache*
+*checkpoints*
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+results/
+*.png
